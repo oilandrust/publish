@@ -38,9 +38,15 @@ portfolio-psy/
 - [x] Publish it on github IO, gather data
 - [x] Define / Refine push / branch / update process → [Publish Architecture.md](Publish%20Architecture.md)
 - [x] Build the pluggin prototype and test the whole pipeline
-	- [ ] Implement Notes update, page status tracking
+	- [x] Implement Notes update, page status tracking
 - [ ] Implement Analytics
 - [ ] Polish
+	- [ ] Use Quartz template instead of homemade
+	- [ ] Status UI
+	- [ ] Don't allow to resent publish changes if update is pending
+	- [ ] Content is push, site is building
+	- [ ] Chose files to exclude?
+- [ ] Marketing Strategy
 - [ ] Ship
 
 Out of Scope:
